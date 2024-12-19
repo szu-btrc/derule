@@ -7,7 +7,7 @@ rule updates to cope with changing business requirements.
 
 ## Code
 
-Derule is based on geth (https://github.com/ethereum/go-ethereum.git) release 1.3.0.
+Derule is based on geth (https://github.com/ethereum/go-ethereum.git) v1.9.25-stable
 
 The Go files in this rep are modified EVM source code:
 - contracts.go replaces ethereum/go-ethereum/core/vm/contracts.go
