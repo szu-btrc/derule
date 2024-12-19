@@ -14,5 +14,10 @@ The Go files in this rep are modified EVM source code:
 - contracts_test.go replaces ethereum/go-ethereum/core/vm/contracts_test.go
 - evm.go replaces ethereum/go-ethereum/core/vm/evm.go
 
-`tupledes.txt` is an example of a tuple descriptor.
-`ruletest15.sol` contains the code for the smart contract.
+**ruletest15.sol** contains the code for the rule engine control contract.
+
+**tupledes.txt** is a template for rule tuple descriptor.
+
+
+
+
